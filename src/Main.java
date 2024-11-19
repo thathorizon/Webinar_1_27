@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Yandex!");
+        for (int i=0; i <= 99; i++) {
+            System.out.println("Привет, Яндекс Практикум!");
+        }
     }
 }
